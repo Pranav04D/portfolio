@@ -56,14 +56,14 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 1.75rem;
-  bottom: 45%;
+  left: 230px;
+  bottom: 400px;
 }
 
 .top-cloud {
   position: absolute;
-  top: 10%;
-  right: 25%;
+  right: 300px;
+  top: 40px;
 }
 
 .profile-pic {
